@@ -26,3 +26,42 @@ Example output:
     "2017-12-12": {
         "outgoing": [
             {
+                "flights": [
+                    {
+                        "destination": "14:50 (ICN)",
+                        "origin": "07:20 (KUL)"
+                    }
+                ],
+                "price": "699.00 MYR"
+            },
+            {
+                "flights": [
+                    {
+                        "destination": "08:05 (DMK)",
+                        "origin": "06:55 (KUL)"
+                    },
+                    {
+                        "destination": "23:05 (ICN)",
+                        "origin": "15:40 (DMK)"
+                    }
+                ],
+                "price": "1,953.72 MYR"
+            },
+...
+            {
+                "flights": [
+                    {
+                        "destination": "15:10 (DMK)",
+                        "origin": "11:20 (ICN)"
+                    },
+                    {
+                        "destination": "00:15 (KUL) +1",
+                        "origin": "21:00 (DMK)"
+                    }
+                ],
+                "price": "1,237.75 MYR"
+            }
+        ]
+    }
+}
+```
