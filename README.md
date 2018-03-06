@@ -65,3 +65,9 @@ Example output:
     }
 }
 ```
+
+### To-do 
+
+* Identify cookie generation method or pre-load cookies to be used in API queries
+* Develop a front-end for simple data visualisation 
+* Add proxy support 
