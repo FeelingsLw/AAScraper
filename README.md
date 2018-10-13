@@ -2,7 +2,9 @@
 
 ![Python 3.2](https://img.shields.io/badge/python-3.2-blue.svg)
 
-AAScraper is a web scraper tool that scrapes the AirAsia booking website to organically obtain the prices of all and the cheapest flights for a given date range, inspired by SkyScanner. 
+**AAScraper currently does not work with the latest AirAsia API**
+
+AAScraper is a web scraper tool that scrapes the AirAsia booking website to organically obtain the prices of all and the cheapest flights for a given date range, inspired by SkyScanner.
 
 ### Installation
 
@@ -66,8 +68,8 @@ Example output:
 }
 ```
 
-### To-do 
+### To-do
 
 * Identify cookie generation method or pre-load cookies to be used in API queries
-* Develop a front-end for simple data visualisation 
-* Add proxy support 
+* Develop a front-end for simple data visualisation
+* Add proxy support
